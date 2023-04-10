@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "3f07b85ef80d30cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b70beb0dc52cc640",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tamashi/changelogs/tamashi-itd-changelog-07.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "759db8190cdadfa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c27234906e660e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "603360b67bb77a33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0026569da4403328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#bugfix",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81a6378f2e64475d",
+    "type": "split",
+    "children": [
+      {
+        "id": "73880db7f2bdb986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee81db41fb03e0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tamashi/changelogs/tamashi-itd-changelog-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b70beb0dc52cc640",
+  "lastOpenFiles": [
+    "tamashi/changelogs/tamashi-itd-changelog-07.md",
+    "tamashi/changelogs/tamashi-itd-changelog-06.md",
+    "tamashi/dump-0/tamashi-itd-dust-220315.md",
+    "tamashi/dump-0/tamashi-itd-dust-220209.md",
+    "party-0/dust-220615.md",
+    "party-0/dust-0/module.js.md",
+    "party-0/Pasted image 20220615215046.png",
+    "party-0/Untitled.md",
+    "dust-0/log-220608.md",
+    "dust-0/avessy.md"
+  ]
+}

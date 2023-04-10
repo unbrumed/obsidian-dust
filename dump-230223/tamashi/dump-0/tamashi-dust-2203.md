@@ -1,0 +1,4 @@
+# A for Andry
+[https://docs.google.com/document/d/185uLjpWFtQUl4Csn75GexwCknTI1JRJL_ZY8oGAI_60/edit#heading=h.vgpm8bp6hkt](https://docs.google.com/document/d/185uLjpWFtQUl4Csn75GexwCknTI1JRJL_ZY8oGAI_60/edit#heading=h.vgpm8bp6hkt "https://docs.google.com/document/d/185uLjpWFtQUl4Csn75GexwCknTI1JRJL_ZY8oGAI_60/edit#heading=h.vgpm8bp6hkt")
+
+[https://docs.google.com/document/d/1Zurrz2CUduKa0bbkoVJVhSJrM56LLb66Idwsj54jePE/edit#heading=h.pdbb7hqe8l9c](https://docs.google.com/document/d/1Zurrz2CUduKa0bbkoVJVhSJrM56LLb66Idwsj54jePE/edit#heading=h.pdbb7hqe8l9c "https://docs.google.com/document/d/1Zurrz2CUduKa0bbkoVJVhSJrM56LLb66Idwsj54jePE/edit#heading=h.pdbb7hqe8l9c")
